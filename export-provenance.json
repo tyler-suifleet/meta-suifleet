@@ -1,0 +1,28 @@
+{
+  "files": {
+    "COPYING.MIT": "ffe75528e1ad7fcacb4c50150c71ab6c56784e29a0673819ac19c95ce2ca7aa4",
+    "README.md": "beef286e5000d2615a932fb0b1d0b7e8be15f3975ac5de41a543493072167894",
+    "RELEASE.md": "27845932cc12296c0a2f1c24906d1735d25d030d35d11ad58df5a8d7eb55d4c5",
+    "SECURITY.md": "72168f35e4a561f99e3a8865db6177c1ff5fa8465bcf31118d61cff291a5c249",
+    "classes/suifleet-core-fixes.bbclass": "db8409950dc86763721d651fe6f0a9c356dfd4f89e1f8a2e4f6b54e7408bf25c",
+    "conf/layer.conf": "699cc720cd4dfac783cdd94890dbb88585a99cb1f979d4e0bea64059bb6162e9",
+    "export-files.json": "23a5bfeda078d7708e34510538fa22967eb2905e6d0c1dd9f122575fc1fd06a9",
+    "recipes-devtools/suifleet-node/suifleet-node_22.22.2.bb": "b1d1b751f78d247e8912eee4f4cb895bbf3a22d6600f511760514d3ebb8157cf",
+    "recipes-edge/suifleet-walrus-codec/suifleet-walrus-codec_1.0.bb": "8d1283b9790182526e48f07b73b294d729604d5a3fd03a4e3bbe3b02425b9837",
+    "recipes-edge/suifleet/files/config.toml.example": "495f0700efa998897581493358ff2de5db98dedf7fb97450b04c2f3ea719cbd0",
+    "recipes-edge/suifleet/files/firmware.toml.example": "ae66a3409345241cfa94849345ba8c05150d4840d7e3201936ae18698c7236a0",
+    "recipes-edge/suifleet/files/signer.toml.example": "36484178f91211d5d054f3c71755555a11fbbcac96002b5dc3401e83995e36fd",
+    "recipes-edge/suifleet/files/suifleet-enrollment.path": "126a1a5616c251f77a83b94b14387362dfcee21d5674f3db049005c060fd0447",
+    "recipes-edge/suifleet/files/suifleet-firmware.path": "a79e0f19458ba95eee7cd254e8546d8d4372b51c96f1c9c3c368d12c9d285fac",
+    "recipes-edge/suifleet/files/suifleet-firmware.service": "c3f0c617e80f10a6cafc540699564b7906e840ea266cdfc6cc80a01988b41a4d",
+    "recipes-edge/suifleet/files/suifleet-provision": "2556631b783b4698924d63d677e9f6a9dca73db3f7d86e7e40f7964e0144d416",
+    "recipes-edge/suifleet/files/suifleet-provision.service": "0e7ced8971f1de43ad97d3b5f6d018d0ee85d2c9702c27ce56b02665f83811bc",
+    "recipes-edge/suifleet/files/suifleet-signer.service": "c174e9309da0f6ae954f76ae5b5d0657bdc6aba5ba134cc319391dd9f11adbc6",
+    "recipes-edge/suifleet/files/suifleet-signer.socket": "6ce9e9c40b518002f9992aaff0ffa8b645ed5d9876ba1fc0c95b95134ac3b78f",
+    "recipes-edge/suifleet/files/suifleet.service": "8c75fa3443890e8653580ba17cdead2f401894c58e0922090489cc635ddf8da2",
+    "recipes-edge/suifleet/suifleet-crates.inc": "cccfe53771aff5f5f66df6eed8762db5635476295166ba349f3792b902185d7d",
+    "recipes-edge/suifleet/suifleet_1.0.bb": "67f2bf3b136ae56ee9b5b3f85c9e655cda92bfab580a93d7bd9efa6655608818"
+  },
+  "schema_version": 1,
+  "source_commit": "6d104671ee3b5a154e82744540c9604b355018b8"
+}
