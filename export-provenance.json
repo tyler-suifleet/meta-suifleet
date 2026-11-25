@@ -1,7 +1,7 @@
 {
   "files": {
     "COPYING.MIT": "ffe75528e1ad7fcacb4c50150c71ab6c56784e29a0673819ac19c95ce2ca7aa4",
-    "README.md": "beef286e5000d2615a932fb0b1d0b7e8be15f3975ac5de41a543493072167894",
+    "README.md": "6490ddeaaf1ff93430112c1e514f7eacc7cde96d01af21271b9a6f0f40ec2679",
     "RELEASE.md": "1740b89ed9b292ea91260f2c30eacf31934aa67335ed8a55efc3703ba6998ab6",
     "SECURITY.md": "72168f35e4a561f99e3a8865db6177c1ff5fa8465bcf31118d61cff291a5c249",
     "classes/suifleet-core-fixes.bbclass": "db8409950dc86763721d651fe6f0a9c356dfd4f89e1f8a2e4f6b54e7408bf25c",
@@ -24,5 +24,5 @@
     "recipes-edge/suifleet/suifleet_1.0.bb": "c66e1849ea9c9ca9f7bf93aa17865895f736371b7994ef22f79c6a8089acf983"
   },
   "schema_version": 1,
-  "source_commit": "0d3d67329c23858bb2ded18a57e744f818a3caf0"
+  "source_commit": "240474ad734aecb957dfabeee34d0b54e35150e7"
 }
